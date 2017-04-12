@@ -1,0 +1,1 @@
+mp.browsers.new("http://89.46.125.41:8080/voice.html");
